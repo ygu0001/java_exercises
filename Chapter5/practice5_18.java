@@ -41,4 +41,4 @@ public class practice5_18 {
 
 	}
 
-}
+
